@@ -1,3 +1,3 @@
-# robots.txt brentuzelac.com
+# robots.txt brent.mn
 User-agent: ia_archiver
 Disallow: /
